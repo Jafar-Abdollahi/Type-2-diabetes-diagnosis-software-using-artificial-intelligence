@@ -1,0 +1,36 @@
+
+RFC Predict =[0]:
+ Accuracy RFC =1.0:
+_________________
+MLP Predict =[1]:
+ Accuracy MLP =0.7666666666666667:
+_________________
+KNN Predict =[0]:
+ Accuracy KNN =0.8333333333333334:
+_________________
+ABC Predict =[0]:
+ Accuracy ABC =0.9666666666666667:
+_________________
+TREE Predict =[0]:
+ Accuracy TREE =1.0:
+_________________
+GNB Predict =[0]:
+ Accuracy GNB =0.8333333333333334:
+_________________
+GBC Predict =[0]:
+ Accuracy GBC =0.8666666666666667:
+_________________
+SVM Predict =[0]:
+ Accuracy SVM =0.7:
+_________________
+ETC Predict =[0]:
+ Accuracy ETC =0.7:
+_________________
+Stack Predict =[0]:
+ Accuracy Stack =1.0:
+_________________
+Nagative =9:
+ Positive =1:
+ Diabetes diagnosis percentage =1.0:
+________Result_________
+Diagnosis suggests that patient does not suffers from diabetes.
